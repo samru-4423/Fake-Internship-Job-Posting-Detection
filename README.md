@@ -44,14 +44,6 @@ The original dataset contains approximately:
 
 For this project, 100,000 records were used because of the computational limitations of the available laptop.
 
-The dataset should be placed in the project data directory:
-
-    data/
-
-For example:
-
-    data/fake_internship_detection_dataset.csv
-
 ## 4. Project Structure
 
     Fake-Internship-Detection/
